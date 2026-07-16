@@ -5,5 +5,5 @@ This repository demonstrates my ability to design, execute, and report on manual
 
 ---
 
-## 📂 Repository Structure
+
 
